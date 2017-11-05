@@ -18,4 +18,4 @@ This will restart the budgie panel with color you specified in `rgba(r,g,b,a)` .
 
 *Enjoy!*
 
-[Reference](https://solus-project.com/forums/viewtopic.php?t=1415)
+> Reference : https://<i></i>solus-project.com/forums/viewtopic.php?t=1415
