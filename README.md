@@ -6,13 +6,13 @@ To color the budgie panel, create `gtk.css` in `~/.config/gtk-3.0/ ` and add the
     background-color: rgba(0,0,0,0.9);
 }
 ```
-Save and run `budgie-panel --replace &`
+Save and run `budgie-panel --replace &` .
 
-This will restart the budgie panel with color you specified in `rgba(r,g,b,a)`
+This will restart the budgie panel with color you specified in `rgba(r,g,b,a)` .
 
-\> To save your time there is a short script __yo.sh__, it appends the *css* to `~/.config/gtk-3.0/gtk.css`
+\> To save your time there is a short script __yo.sh__, it appends the *css* to `~/.config/gtk-3.0/gtk.css` .
 * Download the script
-* In the scipt __yo.sh__, change your specific color in `background-color: rgba(r,g,b,a)` .
+* In the scipt __yo.sh__, change your specific color in `background-color: rgba(r,g,b,a)`
 * Give permission : `chmod +x yo.sh`
 * Run : `./yo.sh`
 
